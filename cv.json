@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Oscar Diaz",
-    "label": "Junior Full Stack Developer and QA Tester",
+    "label": "Junior Full Stack Dev & QA Tester",
     "image": "/foto_perfil.jpg",
     "email": "oscardiazgalvez0@gmail.com",
     "phone": "+34 611 150 521",
@@ -21,11 +21,7 @@
         "username": "oscar-diaz-galvez",
         "url": "https://www.linkedin.com/in/oscar-diaz-galvez-05982028a"
       },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
-      },
+
       {
         "network": "GitHub",
         "username": "odiaz24",
@@ -35,29 +31,37 @@
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
+      "name": "NTTDATA",
+      "position": "QA Tester",
       "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
+      "location": "Madrid, España",
+      "url": "https://es.nttdata.com",
       "startDate": "2024-01-01",
-      "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
-      "highlights": [
-        "Improved website performance by optimizing code"
-      ],
+      "endDate": "2025-06-01",
+      "summary": [
+        "Diseñé e implementé pruebas de regresión automatizadas utilizando Selenium y Python, contribuyendo a mejorar la estabilidad del producto.",
+        "Colaboré estrechamente con el equipo de desarrollo gestionando el código fuente mediante Git y AWS CodeCommit.",
+        "Administré y di seguimiento a tareas a través de Jira, apoyando la entrega continua y el control de calidad del software.",
+        "Documenté procesos técnicos y flujos de trabajo en Confluence, facilitando la transferencia de conocimiento dentro del equipo."
+        ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
-      ],
+        "Desarrollo y mantenimiento de pruebas automatizadas de regresión usando Selenium y Python.",
+        "Gestión del repositorio de código con Git y AWS CodeCommit en colaboración con el equipo de desarrollo.",
+        "Seguimiento y control de tareas a través de Jira para asegurar la trazabilidad y calidad en cada entrega.",
+        "Redacción de documentación técnica en Confluence para garantizar la continuidad operativa del equipo."
+        ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Automatización efectiva de pruebas de regresión mediante Selenium, Python y Docker, lo que permitió reducir significativamente el tiempo de validación en cada entrega.",
+        "Participación activa en la mejora de la cobertura de pruebas y resolución de incidencias en coordinación con el equipo de Back-end."
       ],
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
+        "Python",
+        "Selenium",
+        "GitHub",
+        "AWS",
+        "Docker",
+        "Confluence",
+        "Jira"
       ]
     },
     {
