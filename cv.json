@@ -275,5 +275,13 @@
       ],
       "url": "https://github.com/odiaz24/JAVA-PROJECTS"
     }
+  ],
+   "certificates": [
+    {
+      "name": "Full Stack Web Development (En curso)",
+      "date": "2025-05-01",
+      "issuer": "Pixel Pro",
+      "url": "https://pixelpro.es/carreras/full-stack-developer.html"
+    }
   ]
 }
