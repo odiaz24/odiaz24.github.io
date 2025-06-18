@@ -38,12 +38,7 @@
       "url": "https://es.nttdata.com",
       "startDate": "2024-01-01",
       "endDate": "2025-06-01",
-      "summary": [
-        "Diseñé e implementé pruebas de regresión automatizadas utilizando Selenium y Python, contribuyendo a mejorar la estabilidad del producto.",
-        "Colaboré estrechamente con el equipo de desarrollo gestionando el código fuente mediante Git y AWS CodeCommit.",
-        "Administré y di seguimiento a tareas a través de Jira, apoyando la entrega continua y el control de calidad del software.",
-        "Documenté procesos técnicos y flujos de trabajo en Confluence, facilitando la transferencia de conocimiento dentro del equipo."
-        ],
+      "summary": "Diseñé e implementé pruebas de regresión automatizadas utilizando Selenium y Python, contribuyendo a mejorar la estabilidad del producto.",
       "responsibilities": [
         "Desarrollo y mantenimiento de pruebas automatizadas de regresión usando Selenium y Python.",
         "Gestión del repositorio de código con Git y AWS CodeCommit en colaboración con el equipo de desarrollo.",
