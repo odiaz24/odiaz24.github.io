@@ -274,6 +274,16 @@
         "Desarrollo en el entorno de Eclipse"
       ],
       "url": "https://github.com/odiaz24/JAVA-PROJECTS"
+    },
+        {
+      "name": "TFG 2025 DAW",
+      "isActive": true,
+      "description": "Simulación de carga WEB con bots utilizando Selenium y Python. Creado por Oscar Díaz Gálvez y Unai González Cardoso.",
+      "highlights": [
+        "Desarrollado con Python y Selenium",
+        "Nota Final: 8"
+      ],
+      "url": "https://github.com/uunaii16/TFG_OU_2425"
     }
   ],
    "certificates": [
