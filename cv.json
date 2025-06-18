@@ -33,7 +33,7 @@
     {
       "name": "NTTDATA",
       "position": "QA Tester",
-      "location_type": "On site",
+      "location_type": "Hybrid",
       "location": "Madrid, España",
       "url": "https://es.nttdata.com",
       "startDate": "2024-01-01",
@@ -60,17 +60,14 @@
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
-      "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
+      "name": "CIIT Java Training",
+      "position": "QA Tester",
+      "location_type": "On-site",
+      "location": "Viena, Austria",
+      "url": "https://ciit-training.com",
+      "startDate": "2022-03-10",
+      "endDate": "2022-06-10",
+      "summary": "Durante mis prácticas en CIIT GmbH en Viena, trabajé en el equipo de calidad de software, llevando a cabo pruebas en páginas web para detectar y registrar posibles errores o fallos.",
       "responsibilities": [
         "Developed and maintained backend services using Python and Django.",
         "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
@@ -80,81 +77,28 @@
         "Successfully implemented a feature that enhanced user authentication, improving security measures."
       ],
       "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
-      ]
-    },
-    {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": [
-        "Completed several client projects successfully"
-      ],
-      "skills": [
-        "HTML",
-        "CSS"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        "JavaScript",
+        "Java",
+        "Github"
       ]
     }
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
-      "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
-      ]
+      "institution": "Gredos San Diego",
+      "url": "https://www.gsdeducacion.com",
+      "area": "Doble Grado Superior de DAW & ASIR",
+      "startDate": "2023-09-01",
+      "endDate": "2025-06-01",
+      "score": "9"
     },
     {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
-      ]
+      "institution": "Gredos San Diego",
+      "url": "https://www.gsdeducacion.com",
+      "area": "Grado Medio de Sistemas Microinformaticos y Redes",
+      "startDate": "2023-09-01",
+      "endDate": "2025-06-01",
+      "score": "9"
     }
   ],
   "certificates": [
