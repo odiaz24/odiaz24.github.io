@@ -67,14 +67,15 @@
       "url": "https://ciit-training.com",
       "startDate": "2022-03-10",
       "endDate": "2022-06-10",
-      "summary": "Durante mis prácticas en CIIT GmbH en Viena, trabajé en el equipo de calidad de software, llevando a cabo pruebas en páginas web para detectar y registrar posibles errores o fallos.",
+      "summary": "Durante mis prácticas de Grado Medio en CIIT GmbH, en Viena, estuve realizando pruebas funcionales en la web para detectar y documentar errores.",
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+        "Realización de pruebas manuales y automatizadas sobre sitios web para identificar errores y problemas de usabilidad.",
+        "Colaboración con desarrolladores y otros miembros del equipo para verificar la resolución de incidencias detectadas.",
+        "Introducción a la programación mediante el análisis de scripts de prueba escritos en JavaScript y Java."
       ],
       "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Contribuí a mejorar la cobertura de pruebas funcionales al detectar y documentar casos límite que no estaban contemplados inicialmente.",
+        "Inicié mis conocimientos en lenguajes de programación, sentando las bases para mi futura formación técnica como desarrollador."
       ],
       "skills": [
         "JavaScript",
@@ -101,21 +102,49 @@
       "score": "9"
     }
   ],
-  "certificates": [
-    {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
-    }
-  ],
   "skills": [
     {
-      "name": "Figma",
-      "level": "Expert",
+      "name": "Python",
+      "level": "Intermediate",
       "keywords": [
         "Design",
-        "UI"
+        "Scripts"
+      ]
+    },
+        {
+      "name": "Selenium",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+        {
+      "name": "Jira",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+        {
+      "name": "Linux",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+        {
+      "name": "Java",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
       ]
     },
     {
@@ -164,28 +193,38 @@
         "Responsive Design"
       ]
     },
-    {
-      "name": "TypeScript",
+        {
+      "name": "Bootstrap",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
         "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
+        "CSS Framework",
+        "Responsive Design"
       ]
     },
     {
       "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Oracle",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
       "level": "Intermediate",
       "keywords": [
         "Databases",
@@ -212,96 +251,29 @@
         "Source Code",
         "Git"
       ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "Spanish",
-      "fluency": "Intermediate"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Technology",
-      "keywords": [
-        "AI",
-        "Blockchain"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Smith",
-      "reference": "Reference…"
     }
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
+      "name": "Portfolio Personal",
       "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
+      "description": "Un sitio web con mi portafolio personal",
       "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
+        "Desarrollado con Tailwind CSS y Astro",
+        "Incluye mis Proyectos y Skills"
       ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
+      "url": "https://odiaz24.github.io",
+      "github": "https://github.com/odiaz24"
     },
     {
-      "name": "Weather App",
+      "name": "JAVA PROJECTS",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "Diferentes Proyectos desarrollados con Java",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
+        "Desarrollado con Java",
+        "Desarrollo en el entorno de Eclipse"
       ],
-      "url": "https://weatherapp.com"
-    },
-    {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
-      "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
-      ],
-      "url": "https://ecommerce.com"
+      "url": "https://github.com/odiaz24/JAVA-PROJECTS"
     }
   ]
 }
