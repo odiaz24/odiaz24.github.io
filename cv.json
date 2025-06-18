@@ -1,25 +1,25 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
-    "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "name": "Oscar Diaz",
+    "label": "Junior Full Stack Developer and QA Tester",
+    "image": "/foto_perfil.jpg",
+    "email": "oscardiazgalvez0@gmail.com",
+    "phone": "+34 611 150 521",
+    "url": "https://odiaz24.github.io",
+    "summary": "Recien titulado en Doble Grado Superior de ASIR & DAW, me gusta tanto trabajar en equipo como de forma autónoma, adaptándome con facilidad a nuevos entornos y responsabilidades. Me considero una persona comprometida, responsable y muy motivada, siempre dispuesta a aprender, crecer profesionalmente y aportar valor en nuevos proyectos..",
     "theme": "default",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "28039",
+      "city": "Madrid (Tetuan)",
+      "countryCode": "ES",
+      "region": "España"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "oscar-diaz-galvez",
+        "url": "https://www.linkedin.com/in/oscar-diaz-galvez-05982028a"
       },
       {
         "network": "X",
@@ -28,8 +28,8 @@
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "odiaz24",
+        "url": "https://github.com/odiaz24"
       }
     ]
   },
